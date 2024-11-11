@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Issam Abkadri
 
 ## 🚀 About Me
-- 💻 Software Engineer specializing in [your specialties]
-- 🔭 Currently working on [current project]
+- 🔭 Currently student at 1337 Coding School Khouribga
 - 🌱 Learning [what you're learning]
 - 👯 Looking to collaborate on [interests]
 
