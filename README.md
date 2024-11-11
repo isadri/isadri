@@ -17,5 +17,5 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
 
 ## 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](Your-LinkedIn-URL)
-[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:issam.abk01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issam-abkadri/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:issam.abk01@gmail.com)
