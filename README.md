@@ -7,7 +7,7 @@
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=Purple)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=White)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![C](https://img.shields.io/badge/-C-blue?logo=cplusplus)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
