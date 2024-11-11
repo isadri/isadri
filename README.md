@@ -24,5 +24,13 @@
 </div>
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/issam-abkadri/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:issam.abk01@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/issam-abkadri/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  &nbsp;
+  <a href="mailto:issam.abk01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+</div>
+
