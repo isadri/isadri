@@ -5,7 +5,6 @@
 - 🌱 Learning software engineering, with a focus on low-level programming, network programming, and system design.
 - 👯 Looking to collaborate on open-source projects, coding challenges, and software development teams.
 - 💻 Passionate about building efficient, scalable, and high-performance software solutions.
-- 🌍 Always eager to explore new technologies, improve my problem-solving skills, and deepen my understanding of software systems.
 
 
 ## 🛠️ Tech Stack
