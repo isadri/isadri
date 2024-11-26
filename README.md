@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isadri&show_icons=true&theme=radical&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=isadri&show_icons=true&theme=radical"/>
 </div>
 
 ## 🌐 Socials
