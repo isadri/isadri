@@ -22,6 +22,18 @@
 ![Prometheus](https://img.shields.io/badge/-Prometheus-F24E1E?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
+![C](https://img.icons8.com/color/48/000000/c-programming.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![ELK Stack](https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg)
+![Docker](https://img.icons8.com/color/48/000000/docker.png)
+![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
+![Bash](https://img.icons8.com/plasticine/100/000000/bash.png)
+![Django](https://img.icons8.com/color/48/000000/django.png)
+![Django Rest Framework](https://www.django-rest-framework.org/img/logo.png)
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
+
+
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=isadri&show_icons=true&theme=radical"/>
