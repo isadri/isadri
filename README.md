@@ -8,6 +8,7 @@
 
 
 ## 🛠️ Tech Stack
+<div align="center">
 ![C](https://img.shields.io/badge/-C-blue?logo=c)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -18,21 +19,9 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-Django_REST_Framework-ff1709?style=flat-square&logo=django&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/-ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
-![Elasticsearch](https://img.icons8.com/color/48/000000/elasticsearch.png)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-F24E1E?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-![C](https://img.icons8.com/color/48/000000/c-programming.png)
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![ELK Stack](https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg)
-![Docker](https://img.icons8.com/color/48/000000/docker.png)
-![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png)
-![Bash](https://img.icons8.com/plasticine/100/000000/bash.png)
-![Django](https://img.icons8.com/color/48/000000/django.png)
-![Django Rest Framework](https://www.django-rest-framework.org/img/logo.png)
-![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
-
+</div>
 
 ## 📊 GitHub Stats
 <div align="center">
