@@ -9,7 +9,6 @@
 
 ## 🛠️ Tech Stack
 ![C](https://img.shields.io/badge/-C-blue?logo=c)
-![C](https://camo.githubusercontent.com/33a88742a4c2007e41b467f181b79c7f68650b056f27ac9d38176995f68ad586/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637070)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
