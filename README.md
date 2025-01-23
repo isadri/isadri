@@ -18,6 +18,7 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-Django_REST_Framework-ff1709?style=flat-square&logo=django&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/-ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![Elasticsearch](https://img.icons8.com/color/48/000000/elasticsearch.png)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-F24E1E?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
