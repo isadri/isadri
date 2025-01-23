@@ -8,7 +8,7 @@
 
 
 ## 🛠️ Tech Stack
-<div align="center">
+
 ![C](https://img.shields.io/badge/-C-blue?logo=c)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -21,8 +21,6 @@
 ![ELK Stack](https://img.shields.io/badge/-ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-F24E1E?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-</div>
-
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=isadri&show_icons=true&theme=radical"/>
