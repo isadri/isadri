@@ -19,6 +19,7 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-Django_REST_Framework-ff1709?style=flat-square&logo=django&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/-ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?logo=elasticstack&logoColor=white&style=for-the-badge)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=for-the-badge)
 ![Logstash](https://img.shields.io/badge/Logstash-005571?logo=logstash&logoColor=white&style=for-the-badge)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white&style=for-the-badge)
