@@ -19,7 +19,7 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-Django_REST_Framework-ff1709?style=flat-square&logo=django&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/-ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
-<img src="https://www.vagrantup.com/assets/icons/vagrant-logo.svg" width="30" height="30" alt="Vagrant">
+<img src="https://cdn.simpleicons.org/vagrant/1868F2" width="30" height="30" alt="Vagrant">
 
 ## 📊 GitHub Stats
 <div align="center">
