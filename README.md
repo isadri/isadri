@@ -18,7 +18,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/-Django_REST_Framework-ff1709?style=flat-square&logo=django&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/-ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/-ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white&style=for-the-badge)
 ![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?logo=elasticstack&logoColor=white&style=for-the-badge)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=for-the-badge)
 ![Logstash](https://img.shields.io/badge/Logstash-005571?logo=logstash&logoColor=white&style=for-the-badge)
