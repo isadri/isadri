@@ -14,6 +14,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 ![DRF](https://img.shields.io/badge/-Django_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/-ELK_Stack-005571?logo=elastic&logoColor=white&style=for-the-badge)
