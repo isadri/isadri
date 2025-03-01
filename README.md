@@ -18,6 +18,7 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
 ![DRF](https://img.shields.io/badge/-Django_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/-ELK_Stack-005571?logo=elastic&logoColor=white&style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=white&style=for-the-badge)
 
 ## 📊 GitHub Stats
