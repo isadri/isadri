@@ -19,8 +19,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-0db7ed?logo=docker&logoColor=white&style=for-the-badge)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![ELK Stack](https://img.shields.io/badge/-ELK_Stack-005571?logo=elastic&logoColor=white&style=for-the-badge)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white&style=for-the-badge)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=white&style=for-the-badge)
 ![K3s](https://img.shields.io/badge/K3s-F7B500?logo=k3s&logoColor=white&style=for-the-badge)
+![k3d](https://img.shields.io/badge/k3d-FF6C37?logo=k3d&logoColor=white&style=for-the-badge)
 
 ## 📊 GitHub Stats
 <div align="center">
