@@ -22,7 +22,7 @@
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?logo=argo&logoColor=white&style=for-the-badge)
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=white&style=for-the-badge)
 ![K3s](https://img.shields.io/badge/K3s-F7B500?logo=k3s&logoColor=white&style=for-the-badge)
-![k3d](https://img.shields.io/badge/k3d-FF6C37?logo=k3d&logoColor=white&style=for-the-badge)
+![k3d](https://img.shields.io/badge/k3d-00A86B?logo=kubernetes&logoColor=white&style=for-the-badge)
 
 ## 📊 GitHub Stats
 <div align="center">
