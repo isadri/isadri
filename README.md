@@ -1,11 +1,4 @@
-# 👋 Hi, I'm Issam Abkadri
-
-## 🚀 About Me
-- 🔭 Currently a student at 1337 Coding School Khouribga.
-- 🌱 Learning software engineering, with a focus on low-level programming, network programming, and system design.
-- 👯 Looking to collaborate on open-source projects, coding challenges, and software development teams.
-- 💻 Passionate about building efficient, scalable, and high-performance software solutions.
-
+# Hi, I'm Issam Abkadri
 
 ## 🛠️ Tech Stack
 
