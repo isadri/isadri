@@ -1,5 +1,3 @@
-# Hi, I'm Issam Abkadri
-
 ## 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/-C-blue?logo=c&style=for-the-badge)
@@ -18,20 +16,3 @@
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=white&style=for-the-badge)
 ![K3s](https://img.shields.io/badge/K3s-F7B500?logo=k3s&logoColor=white&style=for-the-badge)
 ![k3d](https://img.shields.io/badge/k3d-00A86B?logo=kubernetes&logoColor=white&style=for-the-badge)
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isadri&show_icons=true&theme=radical"/>
-</div>
-
-## 🌐 Socials
-<div align="center">
-  <a href="https://www.linkedin.com/in/issam-abkadri/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin"/>
-  </a>
-  &nbsp;
-  <a href="mailto:abkadriissam@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="gmail"/>
-  </a>
-</div>
-
